@@ -1,2 +1,3 @@
-public class HdfcBankAccount {
+public class HdfcBankAccount implements BankAccount {
+
 }
